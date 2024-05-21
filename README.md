@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Hana Nur, M.S. Data Science graduate and software engineer.
 <!--
 **hrnur/hrnur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
